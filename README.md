@@ -43,7 +43,7 @@ This **Data Structures and Algorithms (DSA) Repository** is a **comprehensive co
 
 ## 📂 **Folder Structure**
 ```
-DSA-Repo/
+DSA/
 │── README.md
 │── .gitignore
 │── LICENSE
@@ -102,8 +102,8 @@ DSA-Repo/
 ## 🛠 **Installation Guide**
 To clone this repository:
 ```bash
-git clone https://github.com/your-username/DSA-Repo.git
-cd DSA-Repo
+git clone https://github.com/JarrarShahid/DSA.git
+cd DSA
 ```
 
 To set up a **virtual environment** and install dependencies:
