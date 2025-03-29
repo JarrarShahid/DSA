@@ -174,7 +174,7 @@ DSA-Repo/
 🌟 **If you found this repository useful, please consider giving it a star!** 🌟
 
 ```markdown
-[![Star Repo](https://img.shields.io/github/stars/your-username/DSA-Repo.svg?style=social)](https://github.com/your-username/DSA-Repo/stargazers)
+[![Star Repo](https://img.shields.io/github/stars/your-username/DSA-Repo.svg?style=social)](https://github.com/JarrarShahid/DSA-Repo/stargazers)
 ```
 
 🚀 **Happy Coding!** 🎯
