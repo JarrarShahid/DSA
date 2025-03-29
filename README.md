@@ -1,8 +1,8 @@
-# DSA
 # 🚀 Ultimate DSA Repository in Python 🏆
 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Python-blue.svg)
 ![Leetcode](https://img.shields.io/badge/LeetCode-Solutions-yellow)
+![Codeforces](https://img.shields.io/badge/Codeforces-Solutions-purple)
 ![Hackerrank](https://img.shields.io/badge/HackerRank-Solutions-green)
 ![MIT License](https://img.shields.io/badge/License-MIT-brightgreen)
 
@@ -10,19 +10,19 @@
 
 This **Data Structures and Algorithms (DSA) Repository** is a **comprehensive collection** of **DSA concepts, problem-solving techniques, and competitive programming strategies** in Python. It covers **every major algorithmic topic**, from **basic arrays to advanced graph algorithms**, and includes **real-world applications**.
 
-🔹 **Problem-Solving Approach** 📖  
+🔹 **Problem-Solving Approach** 📚  
 🔹 **Code Efficiency (Time & Space Complexity Analysis)** ⏳  
 🔹 **Advanced DSA & Competitive Programming Techniques** 🏆  
 🔹 **Jupyter Notebooks for Visual Explanations** 📊  
 
 ---
 
-## 📜 Table of Contents
+## 🌜 Table of Contents
 
 - [🔹 Features](#-features)
 - [📂 Folder Structure](#-folder-structure)
 - [🛠 Installation Guide](#-installation-guide)
-- [📖 How to Use](#-how-to-use)
+- [📚 How to Use](#-how-to-use)
 - [🎯 Competitive Programming Profiles](#-competitive-programming-profiles)
 - [🤝 Contributing](#-contributing)
 - [📚 Resources & References](#-resources--references)
@@ -43,7 +43,7 @@ This **Data Structures and Algorithms (DSA) Repository** is a **comprehensive co
 
 ## 📂 **Folder Structure**
 ```
-DSA/
+DSA-Repo/
 │── README.md
 │── .gitignore
 │── LICENSE
@@ -99,84 +99,82 @@ DSA/
 
 ---
 
-## 🛠 **Installation Guide**
-To clone this repository:
-```bash
-git clone https://github.com/JarrarShahid/DSA.git
-cd DSA
-```
+## 🔢 **Algorithms List**
 
-To set up a **virtual environment** and install dependencies:
-```bash
-python -m venv env
-source env/bin/activate   # For Mac/Linux
-env\Scripts\activate      # For Windows
-pip install -r requirements.txt
-```
+### 🔵 Sorting
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Counting Sort
+- Radix Sort
+- Bucket Sort
+- Shell Sort
+- Tim Sort
 
-To run a Python script:
-```bash
-python topics/arrays/problems/find_duplicate.py
-```
+### 🔶 Searching
+- Linear Search
+- Binary Search
+- Ternary Search
+- Jump Search
+- Exponential Search
+- Fibonacci Search
+- Interpolation Search
 
----
+### 🔷 Graph Algorithms
+- BFS (Breadth-First Search)
+- DFS (Depth-First Search)
+- Dijkstra’s Algorithm
+- Bellman-Ford Algorithm
+- Floyd-Warshall Algorithm
+- Kruskal’s Algorithm
+- Prim’s Algorithm
+- A* Algorithm
+- Topological Sorting
+- Strongly Connected Components (Kosaraju’s Algorithm)
+- Tarjan’s Algorithm
+- Union-Find (Disjoint Set)
+- Ford-Fulkerson Algorithm
+- Edmonds-Karp Algorithm
 
-## 📖 **How to Use**
-💡 **For Learning:**  
-- Open the `notebooks/` folder to explore detailed explanations with examples.  
-- Check `topics/` for well-structured DSA implementations.  
+### 🔸 Dynamic Programming
+- 0/1 Knapsack Problem
+- Unbounded Knapsack
+- Longest Common Subsequence (LCS)
+- Longest Increasing Subsequence (LIS)
+- Edit Distance (Levenshtein Distance)
+- Matrix Chain Multiplication
+- Coin Change Problem
+- Rod Cutting Problem
+- Subset Sum Problem
+- Traveling Salesman Problem (TSP)
+- Catalan Numbers
+- Fibonacci (DP Approach)
+- Egg Dropping Problem
+- Palindromic Substrings
 
-💡 **For Competitive Coding:**  
-- Use the `cp/` folder for **templates, fast I/O, and tricks** to save time.  
-- Solve problems from `practice/leetcode`, `practice/codeforces`.  
-
-💡 **For Contributing:**  
-- Check `CONTRIBUTING.md` to add new solutions.  
-
----
-
-## 🎯 **Competitive Programming Profiles**
-🔥 **LeetCode:** [Jarrar_Shahid](https://leetcode.com/u/Jarrar_Shahid/)   
-🔥 **HackerRank:** [Jarrar Shahid](https://www.hackerrank.com/profile/jarrarshahid)   
-
----
-
-## 🤝 **Contributing**
-Contributions are welcome!  
-💡 **Want to add a new problem or algorithm?**  
-- Fork this repository  
-- Add your solution inside the correct folder  
-- Make a pull request 🚀  
-
-Check `CONTRIBUTING.md` for detailed guidelines.  
-
----
-
-## 📚 **Resources & References**
-📌 **Books:**  
-- *Introduction to Algorithms* - Cormen (CLRS)  
-- *The Algorithm Design Manual* - Skiena  
-- *Competitive Programming* - Steven Halim  
-
-📌 **Courses:**  
-- [DataCamp](https://app.datacamp.com/learn/courses/data-structures-and-algorithms-in-python)
-
-📌 **Platforms for Practice:**  
-- [LeetCode](https://leetcode.com/)  
-- [Codeforces](https://codeforces.com/)  
-- [HackerRank](https://www.hackerrank.com/)  
-- [GeeksForGeeks](https://www.geeksforgeeks.org/)  
-
----
-
-## 📄 **License**
-This project is licensed under the **MIT License** - feel free to use and modify the code!  
+### 🔹 Advanced Algorithms
+- KMP (Knuth-Morris-Pratt) Pattern Matching
+- Rabin-Karp Algorithm
+- Z-Algorithm (Pattern Matching)
+- Manacher’s Algorithm (Longest Palindromic Substring)
+- Mo’s Algorithm (Query Optimization)
+- Bitwise Manipulation Tricks
+- Segment Trees (Point Updates, Range Queries)
+- Fenwick Tree (Binary Indexed Tree)
+- Heavy-Light Decomposition (HLD)
+- Suffix Arrays & LCP Array
+- Trie Data Structure Algorithms
+- Rolling Hash (String Matching)
 
 ---
 
-### ⭐ **If you found this repository useful, please consider giving it a star!** ⭐  
+🌟 **If you found this repository useful, please consider giving it a star!** 🌟
 
+```markdown
 [![Star Repo](https://img.shields.io/github/stars/your-username/DSA-Repo.svg?style=social)](https://github.com/your-username/DSA-Repo/stargazers)
+```
 
 🚀 **Happy Coding!** 🎯
-
